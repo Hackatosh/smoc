@@ -1,0 +1,12 @@
+.settings
+Debug
+Drivers
+Inc
+Middlewares
+Startup
+.cproject
+.mxproject
+.project
+HTTPD Debug.launch
+STM32F407VGTX_FLASH.ld
+STM32F407VGTX_RAM.ld
