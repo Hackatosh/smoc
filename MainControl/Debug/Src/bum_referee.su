@@ -1,0 +1,15 @@
+bum_referee.c:125:13:bum_api_send_to	24	static
+bum_referee.c:74:6:bumper_start_location_calc	32	static
+bum_referee.c:144:13:find_player_id	12	static
+bum_referee.c:152:13:find_player_addr	20	static
+bum_referee.c:161:13:add_player	16	static
+bum_referee.c:196:6:bums_referee_reset	0	static
+bum_referee.c:207:6:bum_init_referee	8	static
+bum_referee.c:221:5:bum_game_step	16	static
+bum_referee.c:232:5:bum_game_new_player	32	static
+bum_referee.c:251:5:bum_game_player_move	24	static
+bum_referee.c:269:5:bum_game_print	48	static
+bum_referee.c:284:6:bum_process_referee	72	static
+bum_referee.c:397:6:bum_referee_calculate	224	static
+bum_referee.c:526:6:bum_referee_start_game	16	static
+bum_referee.c:537:5:bum_referee_get_n_players	0	static

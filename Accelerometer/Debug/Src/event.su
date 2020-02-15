@@ -1,0 +1,3 @@
+event.c:2:6:event_init	16	static
+event.c:4:6:event_trigger	16	static
+event.c:6:5:event_check	16	static

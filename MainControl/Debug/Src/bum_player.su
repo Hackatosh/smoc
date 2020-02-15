@@ -1,0 +1,4 @@
+bum_player.c:28:6:bum_init_player	8	static
+bum_player.c:45:5:bum_game_register	16	static
+bum_player.c:63:5:bum_game_acceleration	16	static
+bum_player.c:98:6:bum_process_player	40	static

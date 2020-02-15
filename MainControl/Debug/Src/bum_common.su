@@ -1,0 +1,5 @@
+bum_common.c:6:6:bum_notify_recv	0	static
+bum_common.c:11:6:bum_process	0	static
+bum_common.c:16:6:bum_notify_endtx	0	static
+bum_common.c:21:6:web_interface_init	8	static
+bum_common.c:30:6:bum_log	0	static

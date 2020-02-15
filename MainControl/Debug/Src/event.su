@@ -1,0 +1,4 @@
+event.c:3:6:event_init	0	static
+event.c:6:6:event_trigger	0	static
+event.c:9:5:event_check	0	static
+event.c:20:5:event_read	0	static
